@@ -10,6 +10,10 @@ Wand Patcher modifies the local Wand/WeMod Electron bundle to bypass the client-
 
 > **Scope:** This is a **local resource patch only**. It does not create a real Pro entitlement on Wand's servers. Wand and WeMod are trademarks of their respective owners; this project is independent and claims no affiliation.
 
+## 🖥️ Application Preview
+
+![Wand Patcher Windows interface](docs/images/wand-patcher-interface.png)
+
 ---
 
 ---

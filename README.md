@@ -66,6 +66,16 @@ For details about update behavior and the updater toggle, see [Usage](docs/USAGE
 
 ---
 
+## 🌐 Online Features & Feature Requests
+
+Server-side Pro features, including Wand Remote, are not supported by the local patch. A custom server solution may be considered if there is sufficient demand.
+
+**Interested?** [Open a feature request](https://github.com/The-Great-Hazard/Wand-Patcher/issues/new) or contact me directly. Let me know which online features you need.
+
+For more details, see the [Roadmap](ROADMAP.md).
+
+---
+
 ## 📥 Download & Building
 
 For a packaged executable, see the repository's **Releases** page (when a release has been published).
